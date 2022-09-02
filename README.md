@@ -19,3 +19,11 @@ to check ruuning container == docker ps
 
 to stop docker===  docker stop container_id
 
+For deployment==
+
+1)create a folder .github
+2) inside .github create another folder workflows
+3) Inside workflow create a main.yaml file
+
+
+
